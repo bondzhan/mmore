@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+mmore:
+  i18n:
+    # 默认即可：classpath:error/messages
+    basenames: classpath:error/messages
+    languageHeader: Accept-Language
+    fallbackToErrorMesg: true
+
+logging:
+  level:
+    root: info
+

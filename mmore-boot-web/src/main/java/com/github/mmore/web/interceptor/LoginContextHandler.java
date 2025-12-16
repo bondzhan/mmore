@@ -36,7 +36,10 @@ public class LoginContextHandler implements HandlerInterceptor {
     public static final List<String> NOT_CHECK_LOGIN_URL_LIST = Lists.newArrayList(
             "/user/register",
             "/user/login",
-            "/userIdentity/queryByUserId");
+            "/userIdentity/queryByUserId",
+            "/demo/arg-error",
+            "/demo/biz-error",
+            "/demo/order");
 
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {

@@ -26,6 +26,8 @@
         <module>mmore-cloud-eda</module>
         <module>mmore-boot-file</module>
         <module>mmore-boot-lock</module>
+        <module>mmore-boot-i18n</module>
+        <module>mmore-example-web</module>
     </modules>
 
     <properties>
