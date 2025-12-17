@@ -7,10 +7,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author Dwyane Lee
- * @date 2025/3/5
- */
 @Component
 public class AbilityFactory {
 

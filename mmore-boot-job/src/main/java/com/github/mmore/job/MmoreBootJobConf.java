@@ -6,12 +6,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.context.annotation.Import;
 
-/**
- * <p>@description
- * <p>@date 2025-02-21  11:43
- *
- * @author 蒋昊宇
- */
 @Slf4j
 @AutoConfiguration
 @Import({

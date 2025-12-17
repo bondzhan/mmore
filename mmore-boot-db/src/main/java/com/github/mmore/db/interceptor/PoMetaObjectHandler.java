@@ -9,11 +9,6 @@ import org.apache.ibatis.reflection.MetaObject;
 
 import java.time.LocalDateTime;
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description 元对象字段填充,实现公共字段自动写入
- */
 @Slf4j
 public class PoMetaObjectHandler implements MetaObjectHandler {
 

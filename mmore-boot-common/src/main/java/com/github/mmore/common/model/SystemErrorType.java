@@ -2,11 +2,6 @@ package com.github.mmore.common.model;
 
 import lombok.Getter;
 
-/**
- * @Author: bond
- * @Description 系统内置错误类型
- * @Date: 2025/1/6 14:06
- */
 @Getter
 public enum SystemErrorType implements ApiErrorType {
     /**

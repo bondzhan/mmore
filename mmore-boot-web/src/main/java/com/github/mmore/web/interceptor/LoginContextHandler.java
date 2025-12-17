@@ -22,11 +22,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @Author Bond
- * @Date 2025/1/23
- * @Description 在DispatcherServlet 接收到请求和 Controller 处理请求之间, 验证及提取登录信息
- */
+
 @Slf4j
 public class LoginContextHandler implements HandlerInterceptor {
 

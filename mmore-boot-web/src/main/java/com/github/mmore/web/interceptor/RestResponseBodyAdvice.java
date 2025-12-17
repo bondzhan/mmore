@@ -17,11 +17,6 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 import java.util.Objects;
 
-/**
- * @Author Bond
- * @Description 统一返回报文封装
- * @Date: 2025/1/6 14:39
- */
 @RestControllerAdvice
 public class RestResponseBodyAdvice implements ResponseBodyAdvice<Object> {
 

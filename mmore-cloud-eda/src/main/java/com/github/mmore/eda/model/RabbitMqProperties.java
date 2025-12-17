@@ -6,11 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import java.util.List;
 
-/**
- * @Author Bond
- * @Date 2025/2/22
- * @Description TODO
- */
+
 @Data
 @ConfigurationProperties(prefix = SystemConstant.RABBITMQ_PREFIX)
 public class RabbitMqProperties {

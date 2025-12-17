@@ -11,11 +11,6 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Author Bond
- * @Date 2025/2/22
- * @Description TODO
- */
 @Slf4j
 @Configuration
 @EnableConfigurationProperties(OssProperties.class)

@@ -1,10 +1,5 @@
 package com.github.mmore.cache.model;
 
-/**
- * @Author Bond
- * @Date 2025/1/22
- * @Description TODO
- */
 public class CacheNameConstant {
     public static final String DEFAULT_AREA = "default";
     public static final String USER_CACHE = "userCache:";

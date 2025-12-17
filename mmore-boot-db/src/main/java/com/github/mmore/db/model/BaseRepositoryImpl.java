@@ -14,11 +14,6 @@ import java.io.Serializable;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * @Author Bond
- * @Date 2025/1/13
- * @Description 扩展mybatis-plus的持久层基类，定制一些通用的持久层操作
- */
 public class BaseRepositoryImpl<M extends BaseMapper<T>, T> extends ServiceImpl<M, T> implements IBaseRepository<T> {
     protected static final int DEFAULT_LIST_BATCH_SIZE = 500;
 

@@ -19,11 +19,6 @@ import java.nio.channels.ReadableByteChannel;
 import java.util.Date;
 import java.util.UUID;
 
-/**
- * @Author Bond
- * @Date 2024/3/6
- * @Description TODO
- */
 @Slf4j
 public class OssFileClient {
 

@@ -9,11 +9,6 @@ import com.github.mmore.common.model.SystemException;
 import lombok.extern.slf4j.Slf4j;
 
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description 当前登录上下文
- */
 @Slf4j
 public class LoginContextHolder {
 

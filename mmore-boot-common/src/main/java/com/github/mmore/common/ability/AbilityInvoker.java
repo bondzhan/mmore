@@ -1,9 +1,5 @@
 package com.github.mmore.common.ability;
 
-/**
- * @author Dwyane Lee
- * @date 2025/3/5
- */
 public interface AbilityInvoker {
 
     /**

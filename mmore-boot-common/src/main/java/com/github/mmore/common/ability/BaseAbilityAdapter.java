@@ -6,10 +6,6 @@ import com.github.mmore.common.util.AssertUtil;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.context.annotation.Lazy;
 
-/**
- * @author Dwyane Lee
- * @date 2025/3/5
- */
 public abstract class BaseAbilityAdapter {
 
     private final AbilityInvoker abilityInvoker;

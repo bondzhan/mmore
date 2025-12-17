@@ -8,11 +8,6 @@ import com.github.mmore.db.properties.MmoreTenantProperties;
 import net.sf.jsqlparser.expression.Expression;
 import net.sf.jsqlparser.expression.LongValue;
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description 多租户配置
- */
 public class MmoreTenentHandler implements TenantLineHandler {
     private MmoreTenantProperties tenantProperties;
 

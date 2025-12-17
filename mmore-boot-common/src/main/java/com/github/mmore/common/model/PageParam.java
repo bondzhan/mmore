@@ -2,10 +2,6 @@ package com.github.mmore.common.model;
 
 import java.io.Serializable;
 
-/**
- * @author zhj
- * @date 2025/1/21
- */
 public class PageParam implements Serializable {
 
     private static final long serialVersionUID = 1L;

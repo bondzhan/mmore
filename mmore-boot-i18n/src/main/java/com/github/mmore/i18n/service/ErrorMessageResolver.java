@@ -7,9 +7,6 @@ import org.springframework.context.i18n.LocaleContextHolder;
 
 import java.util.Locale;
 
-/**
- * @Author Bond
- */
 public class ErrorMessageResolver {
 
     private final MessageSource messageSource;

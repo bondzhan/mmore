@@ -12,11 +12,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import java.sql.SQLException;
 
-/**
- * @Author Bond
- * @Date 2025/2/27
- * @Description TODO
- */
 @Slf4j
 @Order(100)
 @RestControllerAdvice

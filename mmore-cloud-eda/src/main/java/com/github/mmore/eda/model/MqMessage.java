@@ -5,10 +5,6 @@ import lombok.Data;
 import java.io.Serializable;
 import java.util.Map;
 
-/**
- * @author zhj
- * @date 2025/2/22
- */
 @Data
 public class MqMessage implements Serializable {
 

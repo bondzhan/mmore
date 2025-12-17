@@ -4,10 +4,6 @@ import com.github.mmore.common.model.ApiErrorType;
 import com.github.mmore.common.model.SubSystemException;
 import com.github.mmore.common.model.SystemException;
 
-/**
- * @author zhj
- * @date 2025/2/8
- */
 public class AssertUtil {
 
     /**

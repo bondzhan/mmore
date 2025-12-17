@@ -2,11 +2,6 @@ package com.github.mmore.common.model;
 
 import lombok.Getter;
 
-/**
- * @Author: bond
- * @Description 系统基础异常
- * @Date: 2025/1/6 14:06
- */
 @Getter
 public class SystemException extends RuntimeException {
     /**

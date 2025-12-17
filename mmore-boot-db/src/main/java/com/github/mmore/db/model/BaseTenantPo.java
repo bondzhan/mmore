@@ -7,11 +7,7 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description
- */
+
 @Data
 @NoArgsConstructor
 public class BaseTenantPo extends BasePo implements Serializable {

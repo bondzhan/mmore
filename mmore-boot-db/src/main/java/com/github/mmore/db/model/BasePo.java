@@ -9,11 +9,6 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description
- */
 @Data
 @NoArgsConstructor
 public class BasePo extends Model<BasePo> implements Serializable {

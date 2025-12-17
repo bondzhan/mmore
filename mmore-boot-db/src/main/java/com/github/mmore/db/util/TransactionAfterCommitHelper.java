@@ -5,10 +5,6 @@ import org.springframework.transaction.support.TransactionSynchronizationManager
 
 import java.util.function.Consumer;
 
-/**
- * @author zhj
- * @date 2025/3/12
- */
 public class TransactionAfterCommitHelper {
 
     /**

@@ -9,11 +9,6 @@ import java.io.Serializable;
 import java.util.Collection;
 import java.util.List;
 
-/**
- * @Author Bond
- * @Date 2025/1/13
- * @Description TODO
- */
 public interface IBaseRepository<T> extends IService<T> {
 
     PageResponse<T> getPage(long pageNum, long pageSize, LambdaQueryWrapper<T> queryWrapper);

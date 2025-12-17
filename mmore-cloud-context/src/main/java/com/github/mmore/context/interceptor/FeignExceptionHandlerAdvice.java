@@ -15,11 +15,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-/**
- * @Author Bond
- * @Date 2025/1/23
- * @Description TODO
- */
+
 @Slf4j
 @RestControllerAdvice
 @Order(100)

@@ -9,9 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * * @Author Bond
- */
 @Getter
 @Setter
 @ConfigurationProperties(prefix = "mmore.i18n")

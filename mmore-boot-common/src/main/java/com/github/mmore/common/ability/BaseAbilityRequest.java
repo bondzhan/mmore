@@ -5,12 +5,6 @@ import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 
 import java.io.Serializable;
 
-/**
- * implements Serializable
- *
- * @author Dwyane Lee
- * @date 2025/3/5
- */
 @Data
 public class BaseAbilityRequest implements Serializable, AbilityRequest {
 

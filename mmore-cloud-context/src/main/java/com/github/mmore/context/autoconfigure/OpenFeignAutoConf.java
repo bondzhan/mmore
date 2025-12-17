@@ -7,11 +7,6 @@ import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Author Bond
- * @Date 2025/1/23
- * @Description TODO
- */
 @Configuration
 public class OpenFeignAutoConf {
 

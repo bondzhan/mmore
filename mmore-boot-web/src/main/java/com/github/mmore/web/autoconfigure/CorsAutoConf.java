@@ -9,11 +9,6 @@ import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 import org.springframework.web.filter.CorsFilter;
 
-
-/**
- * @Author bond
- * @Date 2025/1/4
- **/
 @EnableConfigurationProperties(CorsProperties.class)
 @ConditionalOnProperty(prefix = CorsProperties.PREFIX,name = "enabled",matchIfMissing = false)
 public class CorsAutoConf {

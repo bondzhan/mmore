@@ -26,12 +26,6 @@ import org.springframework.web.servlet.resource.NoResourceFoundException;
 
 import java.util.Map;
 
-/**
- * @Author: bond
- * @Description 默认全局异常处理类
- * @Date: 2025/1/6 14:10
-
- */
 @Slf4j
 @Order
 @RestControllerAdvice

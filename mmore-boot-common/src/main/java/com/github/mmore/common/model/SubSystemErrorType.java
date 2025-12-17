@@ -1,9 +1,5 @@
 package com.github.mmore.common.model;
 
-/**
- * @author Dwyane Lee
- * @date 2025/3/3
- */
 public class SubSystemErrorType implements ApiErrorType {
 
     private String code;

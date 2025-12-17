@@ -9,11 +9,6 @@ import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
 
-/**
- * @Author Bond
- * @Date 2025/1/18
- * @Description TODO
- */
 @Configuration
 @EnableMethodCache(basePackages = "com.github.mmore")
 @AutoConfiguration

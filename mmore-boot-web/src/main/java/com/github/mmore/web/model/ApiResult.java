@@ -20,11 +20,7 @@ import lombok.experimental.Accessors;
 import java.io.Serializable;
 import java.time.LocalDateTime;
 
-/**
- * @Author Bond
- * @Description 统一API返回结果格式
- * @Date: 2025/1/6 14:21
- */
+
 @Getter
 @Setter
 @Accessors

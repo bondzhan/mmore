@@ -8,11 +8,6 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author Bond
- * @Date 2025/1/8
- * @Description TODO
- */
 @ConfigurationProperties(prefix = "mmore.tenant")
 @Getter
 @Setter

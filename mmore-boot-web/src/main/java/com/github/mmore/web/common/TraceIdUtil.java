@@ -2,11 +2,7 @@ package com.github.mmore.web.common;
 
 import io.micrometer.tracing.Tracer;
 
-/**
- * @Author Bond
- * @Date 2025/1/7
- * @Description TraceId 获取工具类
- */
+
 public class TraceIdUtil {
     private static Tracer tracer;
 

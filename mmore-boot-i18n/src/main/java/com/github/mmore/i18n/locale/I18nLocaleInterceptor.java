@@ -12,10 +12,6 @@ import org.springframework.web.servlet.HandlerInterceptor;
 
 import java.util.Locale;
 
-
-/**
- * * @Author Bond
- */
 @Slf4j
 @RequiredArgsConstructor
 public class I18nLocaleInterceptor implements HandlerInterceptor {

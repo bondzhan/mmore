@@ -18,9 +18,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import java.util.List;
 
-/**
- * @Author Bond
- */
 @Slf4j
 @AutoConfiguration
 @EnableConfigurationProperties(I18nProperties.class)

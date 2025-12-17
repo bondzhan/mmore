@@ -20,12 +20,7 @@ import org.springframework.context.annotation.DependsOn;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 通过配置文件动态定义队列、交换机和绑定，无需修改代码即可扩展。
- * @Author Bond
- * @Date 2025/2/22
- * @Description TODO
- */
+
 @Slf4j
 @AutoConfiguration
 public class RabbitMqAutoCnf {

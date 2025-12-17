@@ -4,12 +4,7 @@ import com.github.mmore.id.properties.MmoreIdProperties;
 import jakarta.annotation.Resource;
 import org.springframework.stereotype.Component;
 
-/**
- * <p>@description
- * <p>@date 2025-02-18  11:07
- *
- * @author 蒋昊宇
- */
+
 @Component
 public class MmoreIdGenerator {
     @Resource

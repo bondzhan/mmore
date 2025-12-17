@@ -6,10 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 
 import java.util.List;
 
-/**
- * @author bond
- * @Description TODO
- */
+
 @Getter
 @Setter
 @ConfigurationProperties(prefix=CorsProperties.PREFIX)

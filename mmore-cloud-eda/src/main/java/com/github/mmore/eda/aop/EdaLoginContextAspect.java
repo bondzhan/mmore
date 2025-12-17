@@ -9,12 +9,7 @@ import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.springframework.stereotype.Component;
 
-/**
- * <p>@description
- * <p>@date 2025-02-25  17:51
- *
- * @author 蒋昊宇
- */
+
 @Aspect
 @Component
 public class EdaLoginContextAspect {

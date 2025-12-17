@@ -5,10 +5,7 @@ import com.github.mmore.common.model.PageResponse;
 
 import java.util.ArrayList;
 
-/**
- * @author zhj
- * @date 2025/1/22
- */
+
 public class PageUtil {
 
     private static final Integer DEFAULT_CURRENT = 1;

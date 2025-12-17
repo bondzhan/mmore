@@ -7,10 +7,6 @@ import org.springframework.context.ApplicationContextAware;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @Author bond
- * @Date 2025/1/4
- */
 public class AbstractProperties implements ApplicationContextAware {
     public static Map<String,AbstractProperties> configClassMap=new ConcurrentHashMap();
     private static ApplicationContext context;

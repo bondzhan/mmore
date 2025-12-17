@@ -15,12 +15,6 @@ import org.springframework.stereotype.Component;
 import java.lang.reflect.Method;
 import java.util.Objects;
 
-/**
- * <p>@description
- * <p>@date 2025-02-21  11:19
- *
- * @author 蒋昊宇
- */
 @Aspect
 @Component
 public class JobLoginContextAspect {

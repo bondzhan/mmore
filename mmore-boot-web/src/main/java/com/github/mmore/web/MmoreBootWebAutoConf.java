@@ -10,11 +10,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.context.annotation.Import;
 import org.springframework.context.annotation.PropertySource;
-/**
- * @Author Bond
- * @Date 2025/1/6
- * @Description 自动配置类，用于初始化 Youforest Web 模块的相关配置
- */
+
 @Slf4j
 @AutoConfiguration
 @PropertySource(value = "classpath:mmore-boot-web.properties", encoding = "UTF8")

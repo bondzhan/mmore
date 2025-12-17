@@ -3,10 +3,6 @@ package com.github.mmore.common.ability;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Component;
 
-/**
- * @author Dwyane Lee
- * @date 2025/3/5
- */
 @Component
 public class AbilityInvokerImpl implements AbilityInvoker{
 

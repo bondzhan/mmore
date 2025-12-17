@@ -6,12 +6,6 @@ import cn.idev.excel.event.AnalysisEventListener;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * <p>@description
- * <p>@date 2025-02-13  10:00
- *
- * @author 蒋昊宇
- */
 public class BaseExcelListener <T> extends AnalysisEventListener<T> {
 
     private List<T> dataList = new ArrayList<>();

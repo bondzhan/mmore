@@ -13,11 +13,6 @@ import org.springframework.context.annotation.Bean;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @Author Bond
- * @Date 2025/1/22
- * @Description TODO
- */
 @Slf4j
 @AutoConfiguration
 @ConditionalOnClass(CacheManager.class)

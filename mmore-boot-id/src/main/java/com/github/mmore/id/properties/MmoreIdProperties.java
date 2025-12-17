@@ -5,12 +5,6 @@ import lombok.Getter;
 import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-/**
- * <p>@description
- * <p>@date 2025-02-18  10:49
- *
- * @author 蒋昊宇
- */
 @ConfigurationProperties(prefix = "mmore.id")
 @Getter
 @Setter

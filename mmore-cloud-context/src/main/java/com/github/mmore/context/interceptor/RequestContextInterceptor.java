@@ -14,11 +14,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import java.util.Enumeration;
 import java.util.List;
 
-/**
- * @Author Bond
- * @Date 2025/1/23
- * @Description Feign请求中访问原始Web请求的上下文,继续往下游透传。
- */
+
 @Slf4j
 public class RequestContextInterceptor implements RequestInterceptor {
 
