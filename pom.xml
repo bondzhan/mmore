@@ -50,8 +50,8 @@
     <pluginRepositories>
         <pluginRepository>
             <id>rdc</id>
-            <name>Youforest Repository</name>
-            <url>https://packages.aliyun.com/6670f23dfd3acd0ce9014364/maven/2476786-release-x8o41d</url>
+            <name>mmore Repository</name>
+            <url>https://packages.aliyun.com/65799fa74b0f448b4f9ca908/maven/2441851-release-rlynwj</url>
         </pluginRepository>
         <pluginRepository>
             <id>repository.spring.release</id>
